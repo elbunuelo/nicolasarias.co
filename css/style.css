@@ -153,7 +153,7 @@ body {
 }
 
 .circle.empty {
-  background-color: #e2e8f0;
+  background-color: #CBD5E0;
 }
 
 .circle.half {
@@ -167,7 +167,7 @@ body {
 .circle.half::after {
   content: "";
   display: inline-block;
-  background-color: #e2e8f0;
+  background-color: #CBD5E0;
   border-top-left-radius: 0;
   border-bottom-left-radius: 0;
   border-top-right-radius: 0.5rem;
