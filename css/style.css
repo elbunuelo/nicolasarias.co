@@ -53,7 +53,6 @@ body {
 .content .statement {
   font-weight: lighter;
   margin-bottom: 1.5rem;
-  font-size: 0.8vw;
 }
 .content .education,
 .content .contact {
@@ -184,5 +183,8 @@ body {
   }
   .content {
     flex-direction: column;
+  }
+  .content .statement {
+    font-size: 1vw;
   }
 }
