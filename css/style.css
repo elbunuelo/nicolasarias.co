@@ -53,6 +53,7 @@ body {
 .content .statement {
   font-weight: lighter;
   margin-bottom: 1.5rem;
+  font-size: 0.8vw;
 }
 .content .education,
 .content .contact {
@@ -180,9 +181,6 @@ body {
 @media only screen and (max-width: 1024px) {
   body {
     width: auto;
-  }
-  .statement {
-    font-size: 0.6rem;
   }
   .content {
     flex-direction: column;
