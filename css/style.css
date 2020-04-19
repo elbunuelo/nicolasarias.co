@@ -181,6 +181,9 @@ body {
   body {
     width: auto;
   }
+  .statement {
+    font-size: 0.6rem;
+  }
   .content {
     flex-direction: column;
   }
