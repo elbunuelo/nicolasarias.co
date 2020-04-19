@@ -53,6 +53,7 @@ body {
 .content .statement {
   font-weight: lighter;
   margin-bottom: 1.5rem;
+  font-size: 1rem;
 }
 .content .education,
 .content .contact {
