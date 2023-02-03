@@ -79,24 +79,25 @@ body {
   margin-bottom: 0.5rem;
 }
 
-.content .education .item .degree .name,
+.content .education .item .degree .institution,
 .content .item .year,
 .content .work-experience .item .location {
   font-weight: lighter;
 }
 
-.content .work-experience .job-title {
+.content .work-experience .job-title,
+.content .education .item .degree .name {
   font-weight: bold;
 }
 
 .content .work-experience .description {
-    margin-top: 0.5rem;
-    margin-bottom: 0.5rem;
-    font-weight: lighter;
+  margin-top: 0.5rem;
+  margin-bottom: 0.5rem;
+  font-weight: lighter;
 }
 
 .content .work-experience .description p {
-    margin-top: 0.2rem;
+  margin-top: 0.2rem;
 }
 
 .content .skills .category {
